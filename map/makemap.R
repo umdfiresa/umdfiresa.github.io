@@ -5,7 +5,7 @@ library("terra")
 continents <- vect("map/shapefiles/World_Continents/World_Continents.shp")
 conts<-subset(continents, continents$CONTINENT!="Europe" & continents$CONTINENT!="Asia")
               
-countries <- vect("map/shapefiles/IPUMSI_world_release2020/world_countries_2020.shp")
+countries <- vect("G:/Shared drives/2022 FIRE-SA/Team Archive/Website/map data/IPUMSI_world_release2020/world_countries_2020.shp")
 
 DRC <- subset(countries, countries$CNTRY_NAME=="Congo, DRC")
 DRC$legend<-"Artisanal Cobalt Mines"
@@ -42,7 +42,7 @@ pal<-c("#AD7231", "#FFCD00", "#e6e6e6", "#C8102E", "#2FA7D0")
 
 box <- rbind(DRC, usagg, fl, lr, bay)
 
-png('map.png', width = 1000, height = 500, units = "px")
+png('images/map.png', width = 1000, height = 500, units = "px")
 plot(box, "legend", col=pal, border=F, axes=F, box=T,
      plg=list(title="Ongoing Projects", title.adj=0.1, title.cex=2.5,
               bty="o", box.col="white", cex=2, x=-25, y=50.15, box.lwd=10))

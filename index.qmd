@@ -17,7 +17,7 @@ Recent advances in computing and data availability have allowed researchers to d
 
 The map below displays the areas in which the stream has been studying. We cover a wide range of topics that impact a large geographical range.
 
-![](map.png){fig-align="left"}
+![](images/map.png)
 
 ## **Why does it matter?**
 
