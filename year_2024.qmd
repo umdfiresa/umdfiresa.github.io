@@ -1,0 +1,43 @@
+---
+title: "Year 2024"
+---
+
+## Summer Undergraduate Research Conference
+
+For eight weeks, FIRE Sustainability Analytics interns studied the impact of light rail openings in four cities: Charlotte, NC, Phoenix-Mesa, AZ, Houston, TX, and Minneapolis-St. Paul, MN. They used the Discontinuity Based Ordinary Least Squares Model, similar to [Chen & Whalley (2012](https://www.aeaweb.org/articles/pdf/doi/10.1257/pol.4.1.58)), to study the impact of light rail openings on air quality. Afterward, they used demographic data to analyze the potential causes of public transit adoption. Their posters are displayed at [UMD's Summer Undergraduate Research Conference](https://our.umd.edu/surc), and links to their GitHub-Flavored Markdown Page are shown below.
+
+### [Charlotte, NC](https://github.com/umdfiresa2024/team-charlotte)
+
+![](images/Adi%20and%20David%20Poster.jpg){width="1600"}
+
+### [Phoenix-Mesa, AZ](https://github.com/umdfiresa2024/team-phoenix-mesa)
+
+![](images/William%20&%20Sebastian%20Poster.jpg){width="1600"}
+
+### [Houston, TX](https://github.com/umdfiresa2024/team-houston)
+
+![](images/Team-Houston.jpg){width="1600"}
+
+### [Minneapolis-St. Paul, MN](https://github.com/umdfiresa2024/team-twin-cities)
+
+![](images/Twin Cities Poster Final.jpg){width="1600"}
+
+## Undergraduate Research Day
+
+Peer Research Mentors working on their research projects for at least two semesters presented their posters at [UMD's Undergraduate Research Day](https://mcur.umd.edu/undergraduate-research-day). Their posters and links to their GitHub-Flavored Markdown Page are shown below.
+
+### [Do industrial mining companies protect artisanal cobalt mines against conflicts in the DRC?](https://github.com/umdfiresa2024/research-cobalt-mining)
+
+![](images/URD_SA_Mining.jpg){width="1600"}
+
+### [**Effects of Plastic Bag Regulations on the Chesapeake Bay**](https://github.com/umdfiresa2024/spring-research-microplastics)
+
+![](images/URD_SA_Microplastics.jpg){width="1600"}
+
+### Uncovering Greenwashing: A Review of Large Public Companies
+
+![](images/URD_SA_GreenWashing.jpg){width="1600"}
+
+### The Efficacy of Electric Vehicles
+
+![](images/URD_SA_EVs.jpg){width="1600"}
