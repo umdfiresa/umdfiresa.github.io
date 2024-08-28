@@ -53,14 +53,21 @@
     "href": "recognition.html",
     "title": "Awards",
     "section": "",
-    "text": "FIRE Sustainability Analytics alumni Janna Chapman was the Expression of Gratitude speaker at UMD AGNR Commencement ceremony."
+    "text": "With the support of AREC, three FIRE Sustainability Analytics students, Aditya Agarwal, William Ratnavale, and Landon Thomas, were able to compete in the 2023 AAEA Academic Bowl on July 24, 2023, at the Marriott Marquis in Washington, D.C. \nAREC Faculty Paul Goeringer and Elizabeth Anne Thilmany trained the students for the competition. \nThe students made the top 8 out of 32 teams in total. After losing to MSU, they won against UC Chico, SDSU, McGill, and West Texas. Ultimately, they lost to Texas A&M, but they had a great time!"
+  },
+  {
+    "objectID": "recognition.html#july-24-2023",
+    "href": "recognition.html#july-24-2023",
+    "title": "Awards",
+    "section": "",
+    "text": "With the support of AREC, three FIRE Sustainability Analytics students, Aditya Agarwal, William Ratnavale, and Landon Thomas, were able to compete in the 2023 AAEA Academic Bowl on July 24, 2023, at the Marriott Marquis in Washington, D.C. \nAREC Faculty Paul Goeringer and Elizabeth Anne Thilmany trained the students for the competition. \nThe students made the top 8 out of 32 teams in total. After losing to MSU, they won against UC Chico, SDSU, McGill, and West Texas. Ultimately, they lost to Texas A&M, but they had a great time!"
   },
   {
     "objectID": "recognition.html#may-4-2023",
     "href": "recognition.html#may-4-2023",
     "title": "Awards",
-    "section": "",
-    "text": "FIRE Sustainability Analytics alumni Janna Chapman was the Expression of Gratitude speaker at UMD AGNR Commencement ceremony."
+    "section": "May 4, 2023",
+    "text": "May 4, 2023\nFIRE Sustainability Analytics alumni Janna Chapman was the Expression of Gratitude speaker at UMD AGNR Commencement ceremony."
   },
   {
     "objectID": "recognition.html#november-4-2022",
@@ -145,5 +152,26 @@
     "title": "Year 2023",
     "section": "Undergraduate Research Day",
     "text": "Undergraduate Research Day\nPeer Research Mentors who have been working on their research projects for at least two semesters presented their posters at UMD’s Undergraduate Research Day."
+  },
+  {
+    "objectID": "year_2024.html",
+    "href": "year_2024.html",
+    "title": "Year 2024",
+    "section": "",
+    "text": "For eight weeks, FIRE Sustainability Analytics interns studied the impact of light rail openings in four cities: Charlotte, NC, Phoenix-Mesa, AZ, Houston, TX, and Minneapolis-St. Paul, MN. They used the Discontinuity Based Ordinary Least Squares Model, similar to Chen & Whalley (2012), to study the impact of light rail openings on air quality. Afterward, they used demographic data to analyze the potential causes of public transit adoption. Their posters are displayed at UMD’s Summer Undergraduate Research Conference, and links to their GitHub-Flavored Markdown Page are shown below."
+  },
+  {
+    "objectID": "year_2024.html#summer-undergraduate-research-conference",
+    "href": "year_2024.html#summer-undergraduate-research-conference",
+    "title": "Year 2024",
+    "section": "",
+    "text": "For eight weeks, FIRE Sustainability Analytics interns studied the impact of light rail openings in four cities: Charlotte, NC, Phoenix-Mesa, AZ, Houston, TX, and Minneapolis-St. Paul, MN. They used the Discontinuity Based Ordinary Least Squares Model, similar to Chen & Whalley (2012), to study the impact of light rail openings on air quality. Afterward, they used demographic data to analyze the potential causes of public transit adoption. Their posters are displayed at UMD’s Summer Undergraduate Research Conference, and links to their GitHub-Flavored Markdown Page are shown below."
+  },
+  {
+    "objectID": "year_2024.html#undergraduate-research-day",
+    "href": "year_2024.html#undergraduate-research-day",
+    "title": "Year 2024",
+    "section": "Undergraduate Research Day",
+    "text": "Undergraduate Research Day\nPeer Research Mentors working on their research projects for at least two semesters presented their posters at UMD’s Undergraduate Research Day. Their posters and links to their GitHub-Flavored Markdown Page are shown below.\n\nDo industrial mining companies protect artisanal cobalt mines against conflicts in the DRC?\n\n\n\nEffects of Plastic Bag Regulations on the Chesapeake Bay\n\n\n\nUncovering Greenwashing: A Review of Large Public Companies\n\n\n\nThe Efficacy of Electric Vehicles"
   }
 ]

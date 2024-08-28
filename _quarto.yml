@@ -20,6 +20,7 @@ website:
       
       - section: Our Work
         contents:  
+          - href: year_2024.qmd
           - href: year_2023.qmd
           - href: year_2022.qmd
           
